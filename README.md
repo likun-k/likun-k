@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-**likun-k/likun-k** ✨ _special_ ✨ .
 
-- 🔭 I’m currently working on ![](https://img.shields.io/badge/-java%E5%BC%80%E5%8F%91-green)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 working use: ![](https://img.shields.io/badge/java-green) ![](https://img.shields.io/badge/javascript-yellow) ![](https://img.shields.io/badge/other-red) 
+- 🌱 I’m currently learning: ![](https://img.shields.io/badge/java-source-lightgrey) 
+- 👯 🤔I’m looking to/for: good things for me
+- 📫 How to reach me: ![](https://img.shields.io/badge/QQ-593921602-green)
+- ⚡ Fun fact: Code is submitted at irregular intervals
+- 😄 Pronouns: kun
 
-![](https://github-readme-stats.vercel.app/api?username=likun-k)
+
+<img alt="likun-k's github stats" src="https://github-readme-stats.vercel.app/api?username=likun-k&show_icons=true">
+
+---
